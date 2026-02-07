@@ -1,0 +1,7 @@
+hooksPack\HookClass.class
+stepPack\OrangeHRMLoginFeatureSteps.class
+stepPack\AdactinHotelRegistration.class
+pagePack\OrangeHRMLoginPageObject.class
+pagePack\AdactinHotelRegistrationPageObject.class
+runnerPack\RunnerClass.class
+basePack\BaseClass.class
