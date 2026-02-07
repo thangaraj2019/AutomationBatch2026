@@ -7,7 +7,7 @@ Background:
 Given user launch the Orange HRM application
 Then user verify that the Orange HRM application "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login" is laucnhed successfully
 
-@Regression
+@Regression @Sanity2026
 @OrangeHRMLoginTC001 @smoke
 Scenario: Positive Validation of the Orange HRM login screen
 #When user enter the valid "Admin" and valid "admin123"

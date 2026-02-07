@@ -18,3 +18,4 @@ And user click and enters all below mandatory values into the all fields
 And user click the terms and condition checkbix on the Register button
 And user click on the Register button
 Then user verify that the registration is successful and user is navigated to the login screen
+
