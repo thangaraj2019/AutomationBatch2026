@@ -31,6 +31,11 @@ public class BaseClass {
 		return actualUrl.equals(expectedUrl);
 	}
 	 
+	public void setup() {
+		
+		        System.out.println("Firefox browser launched");
+		        System.out.println("Chrome browser launched");
 	
+		    }
 	
 }
