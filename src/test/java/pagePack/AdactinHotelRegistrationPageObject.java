@@ -27,7 +27,7 @@ public class AdactinHotelRegistrationPageObject extends BaseClass {
 	@FindBy(id="full_name")
 	public WebElement fullNameField;
 	
-	@FindBy(id="email_addd")
+	@FindBy(id="email_add")
 	public WebElement emailAddressField;
 	
 	@FindBy(id="captcha-form")

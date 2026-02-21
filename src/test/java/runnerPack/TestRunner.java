@@ -1,9 +1,9 @@
 package runnerPack;
 
 import org.junit.runner.RunWith;
+
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
-
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
@@ -18,7 +18,11 @@ import io.cucumber.junit.CucumberOptions;
     dryRun=false,
     tags="@AdactinHotelRegistrationTC001"
 )
-public class RunnerClass {
+
+
+public class TestRunner {
+
+
 }
 
 
